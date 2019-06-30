@@ -488,8 +488,8 @@ lcd_bl_100_percent  = 100
 
 lcd_backlight       = 180
 lcd_if              = 3
-lcd_x               = 800
-lcd_y               = 480
+lcd_x               = 1920
+lcd_y               = 1080
 lcd_width           = 597.888
 lcd_height          = 336.312
 lcd_dclk_freq       = 74.3
